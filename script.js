@@ -26,7 +26,7 @@ function reveal() {
         setTimeout(function() {
             document.getElementById('initial-content').style.display = 'none';
             document.getElementById('final-msg').style.display = 'block';
-        }, 2200);
+        }, 2500);
 
         setTimeout(function() {
             document.getElementById('initial-content').style.display = 'none';
